@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle stfh-atom",
+        "command": "stfh-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "stfh-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "stfh-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
