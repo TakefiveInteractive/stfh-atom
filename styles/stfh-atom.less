@@ -6,3 +6,20 @@
 
 .stfh-atom {
 }
+
+body .videoPanel {
+  right: 0;
+  left: auto !important;
+  transform: translateX(0%);
+  opacity: .7;
+
+  transition: all .25s ease-out;
+
+  .stfh-atom video {
+    width: 100%;
+  }
+}
+
+body .videoPanel-Hover {
+  transform: translateX(~"calc(-100vw + 100%)");
+}

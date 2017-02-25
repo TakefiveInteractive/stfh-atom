@@ -15,5 +15,12 @@
   "dependencies": {
     "peerjs": "^0.3.14",
     "random-word": "^2.0.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
   }
 }
