@@ -16,7 +16,7 @@ describe('StfhAtom', () => {
   });
 
   describe('when the stfh-atom:toggle event is triggered', () => {
-    it('hides and shows the modal panel', () => {
+    /*it('hides and shows the modal panel', () => {
       // Before the activation event the view is not on the DOM, and no panel
       // has been created
       expect(workspaceElement.querySelector('.stfh-atom')).not.toExist();
@@ -40,7 +40,7 @@ describe('StfhAtom', () => {
         atom.commands.dispatch(workspaceElement, 'stfh-atom:toggle');
         expect(stfhAtomPanel.isVisible()).toBe(false);
       });
-    });
+  });
 
     it('hides and shows the view', () => {
       // This test shows you an integration test testing at the view level.
@@ -68,6 +68,6 @@ describe('StfhAtom', () => {
         atom.commands.dispatch(workspaceElement, 'stfh-atom:toggle');
         expect(stfhAtomElement).not.toBeVisible();
       });
-    });
+  });*/
   });
 });

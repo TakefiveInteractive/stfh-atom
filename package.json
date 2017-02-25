@@ -3,8 +3,7 @@
   "main": "./lib/stfh-atom",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "stfh-atom:toggle"
   },
@@ -14,5 +13,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "peerjs": "^0.3.14",
+    "random-word": "^2.0.0"
   }
 }
