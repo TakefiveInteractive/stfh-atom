@@ -4,7 +4,7 @@
 // for a full listing of what's available.
 @import "ui-variables";
 
-.stfh-atom {
+.stfh-atom-video {
 }
 
 body .videoPanel {
@@ -15,11 +15,19 @@ body .videoPanel {
 
   transition: all .25s ease-out;
 
-  .stfh-atom video {
+  .stfh-atom-video video {
     width: 100%;
   }
 }
 
 body .videoPanel-Hover {
   transform: translateX(~"calc(-100vw + 100%)");
+}
+
+.stfh-atom-status {
+  display: inline-block;
+  .message:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
 }
