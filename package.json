@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "peerjs": "^0.3.14",
-    "random-word": "^2.0.0"
+    "random-word": "^2.0.0",
+    "socket.io-client": "^1.7.3"
   },
   "consumedServices": {
     "status-bar": {
