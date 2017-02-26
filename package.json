@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "stfh-atom:toggle"
   },
-  "repository": "https://github.com/atom/stfh-atom",
+  "repository": "https://github.com/TakefiveInteractive/stfh-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
