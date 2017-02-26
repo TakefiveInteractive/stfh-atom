@@ -14,7 +14,7 @@ And move the whole folder under `~/.atom/packages/`
 ## OTHER SOURCES OF DOCUMENTATION
 
 ## Contributor Guide
-[LINK TO CONTRIBUTING.md]
+See [here](https://github.com/TakefiveInteractive/stfh-atom/blob/master/CONTRIBUTOR_COVENANT_CODE_OF_CONDUCT.md)
 
 ## License 
 MIT
