@@ -1,7 +1,7 @@
 {
   "name": "stfh-atom",
   "main": "./lib/stfh-atom",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom Live Streaming Extension",
   "keywords": [],
   "activationCommands": {
