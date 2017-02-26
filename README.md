@@ -1,5 +1,23 @@
 # stfh-atom package
 
-A short description of your package.
+[PROJECT DESCRIPTION]
+  * [PROJECT FEATURES] 
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## USAGE
+  * [USAGE EXAMPLE]
+  
+## BUILD/INSTALLATION INSTRUCTIONS
+  * [PLATFORM 1]
+    * [BUILD EXAMPLE]
+  * [PLATFORM 2]
+    * [BUILD EXAMPLE]
+
+
+
+## OTHER SOURCES OF DOCUMENTATION
+
+## Contributor Guide
+[LINK TO CONTRIBUTING.md]
+
+## License 
+MIT
