@@ -3,15 +3,13 @@
 [PROJECT DESCRIPTION]
   * [PROJECT FEATURES] 
 
-## USAGE
-  * [USAGE EXAMPLE]
+
   
 ## BUILD/INSTALLATION INSTRUCTIONS
-  * [PLATFORM 1]
-    * [BUILD EXAMPLE]
-  * [PLATFORM 2]
-    * [BUILD EXAMPLE]
+`apm install stfh`
 
+For building by scource code, run `npm install` after the clone.
+And move the whole folder under `~/.atom/packages/`
 
 
 ## OTHER SOURCES OF DOCUMENTATION
