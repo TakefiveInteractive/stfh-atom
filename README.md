@@ -1,7 +1,6 @@
 # stfh-atom package
 
-[PROJECT DESCRIPTION]
-  * [PROJECT FEATURES] 
+STFH. Share The F*king Hack
 
 
   
