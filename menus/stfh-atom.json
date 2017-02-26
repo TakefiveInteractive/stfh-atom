@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "stfh-atom",
+          "label": "Stream The F* Hack",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Start/Toggle",
               "command": "stfh-atom:toggle"
             }
           ]

@@ -1,13 +1,13 @@
 {
   "name": "stfh-atom",
   "main": "./lib/stfh-atom",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Atom Live Streaming Extension",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "stfh-atom:toggle"
   },
-  "repository": "https://github.com/atom/stfh-atom",
+  "repository": "https://github.com/TakefiveInteractive/stfh-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
