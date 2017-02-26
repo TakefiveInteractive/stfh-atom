@@ -1,6 +1,7 @@
 # stfh-atom package
 
 STFH. Share The F*king Hack
+![](https://i.imgur.com/NIiwBEH.gif)
 
 
   
