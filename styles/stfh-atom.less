@@ -25,10 +25,39 @@ body .videoPanel-Hover {
   transform: translateX(~"calc(-100vw + 100%)");
 }
 
+@-webkit-keyframes statusColor {
+  0% { color: #11cfff; }
+  10% { color: #19e8ff; }
+  20% { color: #2bfff0; }
+  30% { color: #3affca; }
+  40% { color: #49ffa4; }
+  50% { color: #49ffa4; }
+  60% { color: #3affca; }
+  70% { color: #2bfff0; }
+  80% { color: #19e8ff; }
+  100% { color: #11cfff; }
+}
+
 .stfh-atom-status {
   display: inline-block;
+  float: left;
+  .message {
+    float: left;
+  }
   .message:hover {
     text-decoration: underline;
     cursor: pointer;
+  }
+  .status {
+    float: left;
+    margin-right: 1.5em;
+    color: transparent;
+    -webkit-animation-name: statusColor;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-duration: 2s;
+  }
+  .watch {
+    float: left;
+    margin-right: 1.5em;
   }
 }
